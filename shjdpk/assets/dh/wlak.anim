@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "wlak",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.35,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "95350a41-f315-4c02-a03b-d23cbc9c88f3"
+            }
+          },
+          {
+            "frame": 0.35,
+            "value": {
+              "__uuid__": "5652c967-214f-4d85-8045-d83e0e02b57d"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "286552f0-c625-493d-9f56-9074ff37684b"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "5f4dce52-f1d6-478e-bdf2-6243a32a1478"
+            }
+          },
+          {
+            "frame": 1.3333333333333333,
+            "value": {
+              "__uuid__": "95350a41-f315-4c02-a03b-d23cbc9c88f3"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

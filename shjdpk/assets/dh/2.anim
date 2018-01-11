@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "2",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": 449
+        },
+        {
+          "frame": 2.5,
+          "value": -492
+        }
+      ]
+    }
+  },
+  "events": []
+}

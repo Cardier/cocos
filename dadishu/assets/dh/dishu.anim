@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dishu",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.26666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "eea47d00-e9fe-4fda-aed4-d023b89cfd27"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "408cc931-259b-4048-97cd-4f93d69810fd"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

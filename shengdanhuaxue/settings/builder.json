@@ -1,0 +1,24 @@
+{
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.yunjuankadingche",
+  "startScene": "822b8305-9b6d-4b31-8748-c36a3ced3b5c",
+  "title": "yunjuankadingche",
+  "webOrientation": "auto",
+  "oauthLoginServer": "",
+  "appKey": "",
+  "appSecret": "",
+  "privateKey": "",
+  "renderMode": "0",
+  "inlineSpriteFrames": true,
+  "mergeStartScene": false
+}

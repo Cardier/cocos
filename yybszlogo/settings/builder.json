@@ -1,0 +1,26 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [
+    "b0504998-841f-4d70-a3b6-e2b05d64e269"
+  ],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.zhuajingbi",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "15b53aa6-70c6-44af-9ca4-f29c105e5b20",
+  "title": "zhuajingbi",
+  "webOrientation": "auto"
+}

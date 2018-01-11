@@ -1,0 +1,54 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "countdown",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 3.033333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "6d6cab5a-f9ce-4f94-9522-3346f46d9708"
+            }
+          },
+          {
+            "frame": 1.0166666666666666,
+            "value": {
+              "__uuid__": "e9aff3e3-4eb7-40e8-bc9e-ea2f861c3e5b"
+            }
+          },
+          {
+            "frame": 2.066666666666667,
+            "value": {
+              "__uuid__": "e146feec-8c68-469a-8a3d-9705742bb03e"
+            }
+          },
+          {
+            "frame": 2.9,
+            "value": {
+              "__uuid__": "e146feec-8c68-469a-8a3d-9705742bb03e"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 3.033333333333333,
+      "func": "turn",
+      "params": []
+    }
+  ]
+}

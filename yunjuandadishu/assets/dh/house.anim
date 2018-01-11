@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "house",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.6833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "404ef4cb-4370-4063-b740-b378b134103a"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "0d79f731-8549-4205-9a6a-57878c5064c6"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "48e6ce2a-4855-4f9b-9ef2-27ab8a4f4440"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "98b310e5-d69d-4419-a826-a2a0deb7ef7e"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

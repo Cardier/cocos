@@ -1,0 +1,24 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.dishu",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "844c6c4b-c5d6-4481-b33b-5a442c2a25e8",
+  "title": "dishu",
+  "webOrientation": "auto"
+}

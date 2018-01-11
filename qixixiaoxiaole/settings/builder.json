@@ -1,0 +1,24 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.sanxiao2",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "bd8d427c-15a7-48d4-af79-855abeaa5ce8",
+  "title": "xiaoxiaole",
+  "webOrientation": "auto"
+}

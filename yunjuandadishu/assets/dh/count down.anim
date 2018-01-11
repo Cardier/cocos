@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "count down",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 3.183333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "db1b0a1d-0fdb-48db-9ba8-d8ffc246de7d"
+            }
+          },
+          {
+            "frame": 1.4833333333333334,
+            "value": {
+              "__uuid__": "e9aff3e3-4eb7-40e8-bc9e-ea2f861c3e5b"
+            }
+          },
+          {
+            "frame": 3.0166666666666666,
+            "value": {
+              "__uuid__": "e146feec-8c68-469a-8a3d-9705742bb03e"
+            }
+          },
+          {
+            "frame": 3.1666666666666665,
+            "value": {
+              "__uuid__": "e146feec-8c68-469a-8a3d-9705742bb03e"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

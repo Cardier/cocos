@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hong",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 3.033333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a311df6d-879a-4fa6-9e3b-f00554f6c671"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "2a3e14f9-0313-4405-9269-1f03787a6f83"
+            }
+          },
+          {
+            "frame": 2.0166666666666666,
+            "value": {
+              "__uuid__": "9f70a08c-bb64-4701-9cf3-c153c8844caf"
+            }
+          },
+          {
+            "frame": 3.0166666666666666,
+            "value": {
+              "__uuid__": "a311df6d-879a-4fa6-9e3b-f00554f6c671"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

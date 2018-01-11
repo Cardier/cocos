@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bear",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.3333333333333333,
+  "sample": 30,
+  "speed": 0.4,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 320
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 330
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 320
+        },
+        {
+          "frame": 1,
+          "value": 330
+        },
+        {
+          "frame": 1.3333333333333333,
+          "value": 320
+        }
+      ]
+    }
+  },
+  "events": []
+}

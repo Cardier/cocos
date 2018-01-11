@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bear",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.55,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "eea47d00-e9fe-4fda-aed4-d023b89cfd27"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "efa0c615-b44d-481f-973f-1c01a3ed2398"
+            }
+          },
+          {
+            "frame": 0.5333333333333333,
+            "value": {
+              "__uuid__": "eea47d00-e9fe-4fda-aed4-d023b89cfd27"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

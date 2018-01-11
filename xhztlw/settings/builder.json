@@ -1,0 +1,24 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.daQiQiu",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "fcbca6b5-d1cf-44ad-9111-5f8b17a9de60",
+  "title": "xhztlw",
+  "webOrientation": "auto"
+}
