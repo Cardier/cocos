@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "shake",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.3,
+  "sample": 10,
+  "speed": 0.3,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {},
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "1e4c9041-0541-47b5-8c2c-0797ff5a8ee6"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "94dd671d-458e-495e-a364-04cfeefd07f9"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "f732bac7-0cc6-413f-95f8-aca32be889d0"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

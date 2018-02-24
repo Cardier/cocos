@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "868191bc-1a36-4ea8-943f-75dceb92fb96",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "feiji_02": {
+      "ver": "1.0.3",
+      "uuid": "4b5925ab-2473-4a11-b032-883195b0b0af",
+      "rawTextureUuid": "868191bc-1a36-4ea8-943f-75dceb92fb96",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 14,
+      "offsetY": 3,
+      "trimX": 61,
+      "trimY": 17,
+      "width": 131,
+      "height": 105,
+      "rawWidth": 225,
+      "rawHeight": 145,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.receiveFruit",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "959bb78e-dc5c-489f-b2f2-33d91bc3700d",
+  "title": "hby",
+  "webOrientation": "auto"
+}

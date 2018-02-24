@@ -1,0 +1,17 @@
+{
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.yunjuandfj",
+  "startScene": "d4a06a40-24a2-45ee-b56d-63a04ea1df9f",
+  "title": "yunjuandfj",
+  "webOrientation": "auto"
+}
